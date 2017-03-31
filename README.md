@@ -1,5 +1,5 @@
 # PySickle
-The ~~PyRope~~ Octane Secondary Pickler
+The ~~PyRope~~ Octane Secondary Pickler *now my name doesn't work* :(
 
 ~~PyRope~~ Octane dug up lots of usable data from the replay. PySickle gets things rolling by turning its output network stream into usable data.
 Used to parse a ~~PyRope network stream~~ Octane output JSON into usable data.
